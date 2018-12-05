@@ -18,6 +18,8 @@ public class Main {
 		System.out.println("THIS APP SHOWS SALES DATA");
 		System.out.println("Two Change");
 		System.out.println("Three Change");
+		System.out.println("Branch one - first change");
+		System.out.println("Branch two - first change");
 	}
 
 }

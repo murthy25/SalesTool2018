@@ -22,6 +22,7 @@ public class Main {
 		System.out.println("Branch two - first change");
 		System.out.println("Change 01012019");
 		System.out.println("push 01012019");
+		System.out.println("push 2 - 01012019");
 	}
 
 }
